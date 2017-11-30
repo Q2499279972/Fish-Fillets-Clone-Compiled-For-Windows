@@ -1,0 +1,14 @@
+It need lower version lua, so I used version 5.1.5.
+I did not install this lua to my compile enviroment.
+It is enough, if have liblua.a
+I moved the lua header files to this directory.
+lua is very easy to build...
+So, modified MakeFile.
+
+And
+BINDIR = /usr/local/bin
+DATADIR = /usr/local/share/ff-clone
+is modified.
+
+directories.c is modified to change the directory to keep saves.
+
