@@ -1,12 +1,12 @@
 # README
-##about
+## about
 original author and orignal code can be found at:
 [http://www.olsak.net/mirek/ff-clone/index_en.html](http://www.olsak.net/mirek/ff-clone/index_en.html)
 
 this is a windows build and I only modified some code to
 fit my windows and my habit.
 
-##description of the directorys
+## description of the directorys
 ### /all
 1. contian cygwin runtime environment [dlls]
 2. contian Installed Xming
