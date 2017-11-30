@@ -6,7 +6,7 @@ original author and orignal code can be found at:
 this is a windows build and I only modified some code to
 fit my windows and my habit.
 
-## description of the directorys
+## description of the directories
 ### /all
 1. contian cygwin runtime environment [dlls]
 2. contian Installed Xming
@@ -17,7 +17,7 @@ fit my windows and my habit.
 ### /MODIFIED_CODE
 1. reference to code modified
 
-### ORIGIN_PACK
+### /ORIGIN_PACK
 1. original source code pack download from internet
 
 
