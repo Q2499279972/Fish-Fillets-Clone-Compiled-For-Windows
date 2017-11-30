@@ -1,0 +1,1 @@
+width 800, height 600, grid 0, fullscreen 0, safemode 0
